@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /mcp/docs/
 
 - pages:
     - [Analytics](index.md)
